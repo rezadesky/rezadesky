@@ -1,0 +1,105 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A192F"/>
+      <stop offset="55%" stop-color="#0D2038"/>
+      <stop offset="100%" stop-color="#132C4C"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#64B5F6"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#93C5FD"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#1E3A8A" opacity="0.5"/>
+    </pattern>
+    <filter id="blur1"><feGaussianBlur stdDeviation="18"/></filter>
+    <clipPath id="cardClip"><rect x="0" y="0" width="1200" height="330" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#dots)"/>
+
+    <circle cx="1000" cy="60" r="160" fill="url(#glow1)" filter="url(#blur1)">
+      <animate attributeName="cx" values="1000;1060;1000" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="300" r="140" fill="url(#glow1)" filter="url(#blur1)">
+      <animate attributeName="cy" values="300;250;300" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating tech chips -->
+    <g font-family="JetBrains Mono, monospace" font-size="12" fill="#64B5F6" opacity="0.55">
+      <text x="770" y="60">&lt;/&gt;</text>
+      <animateTransform xlink:href="#chip1" attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4s" repeatCount="indefinite"/>
+      <text id="chip2" x="1080" y="150">{ }</text>
+      <text id="chip3" x="900" y="270">TS</text>
+      <text id="chip4" x="1000" y="220">⚛</text>
+    </g>
+
+    <!-- editor window -->
+    <g transform="translate(60,55)">
+      <rect width="560" height="220" rx="14" fill="#0F213B" stroke="#1E3A8A" stroke-width="1.5"/>
+      <rect width="560" height="34" rx="14" fill="#0A1929"/>
+      <rect y="20" width="560" height="14" fill="#0A1929"/>
+      <circle cx="20" cy="17" r="6" fill="#FF5F56"/>
+      <circle cx="40" cy="17" r="6" fill="#FFBD2E"/>
+      <circle cx="60" cy="17" r="6" fill="#27C93F"/>
+      <text x="280" y="21" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#8892B0">profile.ts</text>
+
+      <g font-family="JetBrains Mono, monospace" font-size="15">
+        <text x="24" y="66" fill="#3B82F6">const</text>
+        <text x="80" y="66" fill="#E2E8F0"> developer = {</text>
+
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="0.3s" dur="0.01s" fill="freeze"/>
+          <text x="44" y="94" fill="#93C5FD">name</text><text x="90" y="94" fill="#E2E8F0">: </text><text x="102" y="94" fill="#64B5F6">'Reza Saputra'</text><text x="228" y="94" fill="#E2E8F0">,</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="0.9s" dur="0.01s" fill="freeze"/>
+          <text x="44" y="120" fill="#93C5FD">role</text><text x="82" y="120" fill="#E2E8F0">: </text><text x="94" y="120" fill="#64B5F6">'Full Stack Developer'</text><text x="284" y="120" fill="#E2E8F0">,</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="1.5s" dur="0.01s" fill="freeze"/>
+          <text x="44" y="146" fill="#93C5FD">stack</text><text x="90" y="146" fill="#E2E8F0">: [</text><text x="106" y="146" fill="#64B5F6">'Next.js','React','Laravel'</text><text x="330" y="146" fill="#E2E8F0">],</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="2.1s" dur="0.01s" fill="freeze"/>
+          <text x="44" y="172" fill="#93C5FD">status</text><text x="98" y="172" fill="#E2E8F0">: </text><text x="110" y="172" fill="#64B5F6">'building...'</text>
+        </g>
+
+        <text x="24" y="198" fill="#E2E8F0">};</text>
+        <rect x="46" y="184" width="9" height="16" fill="#3B82F6">
+          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="2.4s"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- right side identity -->
+    <g transform="translate(660,0)">
+      <text x="0" y="140" font-family="JetBrains Mono, monospace" font-size="46" font-weight="700" fill="url(#nameGrad)">Reza Saputra</text>
+      <text x="2" y="172" font-family="JetBrains Mono, monospace" font-size="17" fill="#8892B0">Full Stack Web Developer · IT Student</text>
+
+      <g font-family="JetBrains Mono, monospace" font-size="12" fill="#64B5F6">
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+          <rect x="0" y="196" width="120" height="30" rx="15" fill="#0A1929" stroke="#1E3A8A"/>
+          <text x="60" y="215" text-anchor="middle" fill="#93C5FD">🟢 Open to work</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="0.7s" dur="0.4s" fill="freeze"/>
+          <rect x="132" y="196" width="130" height="30" rx="15" fill="#0A1929" stroke="#1E3A8A"/>
+          <text x="197" y="215" text-anchor="middle" fill="#93C5FD">📍 Aceh, Indonesia</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+          <rect x="0" y="236" width="150" height="30" rx="15" fill="#0A1929" stroke="#1E3A8A"/>
+          <text x="75" y="255" text-anchor="middle" fill="#93C5FD">🎓 IT Student</text>
+        </g>
+        <g opacity="0"><animate attributeName="opacity" to="1" begin="1.3s" dur="0.4s" fill="freeze"/>
+          <rect x="162" y="236" width="150" height="30" rx="15" fill="#0A1929" stroke="#1E3A8A"/>
+          <text x="237" y="255" text-anchor="middle" fill="#93C5FD">🚀 Always building</text>
+        </g>
+      </g>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="329" rx="18" fill="none" stroke="#1E3A8A" stroke-width="1"/>
+  </g>
+</svg>
