@@ -1,66 +1,64 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
+<!-- Animated Header -->
 <a href="https://github.com/rezadesky">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Reza+Saputra;Full+Stack+Web+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Reza+Saputra;Full+Stack+Web+Developer;Welcome+to+my+Github!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Animated Badges -->
+<a href="https://github.com/rezadesky">
+  <img src="https://komarev.com/ghpvc/?username=rezadesky&style=flat-square&color=3B82F6&labelColor=0A1929&label=PROFILE+VIEWS" alt="Views"/>
 </a>
 
 <br><br>
 
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=rezadesky&style=flat-square&color=3B82F6&labelColor=0A1929&label=VIEWS"/>
-<a href="https://github.com/rezadesky?tab=followers"><img src="https://img.shields.io/github/followers/rezadesky?style=flat-square&color=3B82F6&labelColor=0A1929&logo=github&logoColor=fff"/></a>
-<a href="https://github.com/rezadesky?tab=repositories"><img src="https://img.shields.io/github/stars/rezadesky?style=flat-square&color=3B82F6&labelColor=0A1929&logo=github&logoColor=fff"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3B82F6,100:0A192F" width="100%"/>
 
 <br><br>
 
----
+## 🚀 Sedikit Tentang Gue
 
-</div>
+Halo! Panggil aja **Reza**. Gue seorang mahasiswa IT dari Aceh yang hobi banget ngoding dan ngulik web development. Gue lebih sering main di ranah *Full-Stack*, tapi belakangan ini lagi seru-serunya nyoba belajar lebih dalam soal *Backend Architecture* sama *Cloud Computing*.
 
-## 🧭 About Me
+Kalo lagi santai dan nggak ngoding, biasanya gue cari-cari referensi desain UI/UX biar tampilan web makin oke. Jangan sungkan buat sapa atau diskusi bareng ya!
 
-Hello! I'm **Reza Saputra** (@rezadesky), an Information Technology student and Full Stack Web Developer based in Aceh, Indonesia. I am passionate about crafting meaningful experiences and solving problems through code.
-
-- 🔭 I’m currently focused on **Next.js, React, TypeScript, Laravel, and Node.js**
-- 🌱 I’m currently learning **System Design, Cloud Computing, and Backend Architecture**
-- 💬 Ask me about **Web Development & UI/UX**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-
-> *"Write less. Build more. Keep improving."*
+📫 **Email:** [your-email@example.com](mailto:your-email@example.com)
 
 <br>
 
-## 🛠️ Tech Stack
+<!-- Animated Typing Tech Stack Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=Tech+Stack+%26+Tools;What+I+use+daily" alt="Tech Stack" />
 
-<div align="center">
+<br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,nodejs,php,laravel,mysql,postgres,git,linux,vscode,figma&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,nodejs,php,laravel,mysql,postgres,git,linux,vscode,figma&theme=dark&perline=8" alt="Tech Stack Icons" />
 </a>
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=rezadesky&theme=tokyonight&hide_border=true" width="100%"/>
-
-</div>
+<!-- Animated Typing Analytics Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=GitHub+Analytics;My+Coding+Activity" alt="Analytics" />
 
 <br>
 
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rezadesky&theme=tokyonight&hide_border=true" width="91%"/>
+</p>
+
+<br>
+
+<!-- Animated Typing Connect Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=Let's+Connect!;Hit+me+up!" alt="Connect" />
+
+<br>
 
 <a href="https://github.com/rezadesky">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
