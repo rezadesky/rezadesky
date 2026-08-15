@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="./hero-banner.svg" width="100%"/>
 
 <br><br>
 
@@ -81,7 +81,7 @@ const reza: Developer = {
 
 <div align="center">
 
-<img src="./assets/skills-orbit.svg" width="360"/>
+<img src="./skills-orbit.svg" width="360"/>
 
 <br><br>
 
