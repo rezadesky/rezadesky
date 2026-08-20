@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: rezadesky
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=64B5F6&color_dots[0]=0A0F1E&color_dots[1]=0D2B63&color_dots[2]=0D47A1&color_dots[3]=1565C0&color_dots[4]=42A5F5&color_empty=0D1B2A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=90CAF9&color_dots[0]=0A0F1E&color_dots[1]=0D2B63&color_dots[2]=0D47A1&color_dots[3]=1565C0&color_dots[4]=64B5F6&color_empty=0D1B2A
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
