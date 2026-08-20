@@ -135,23 +135,6 @@
   </picture>
 </div>
 
-
-
-
-<div align="center"><img src="headers/github-stats.svg" width="500"/></div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=64B5F6&icon_color=64B5F6&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=rezadesky&hide_border=true&background=0D1B2A&stroke=64B5F6&ring=64B5F6&fire=FF6B6B&currStreakLabel=64B5F6&dates=C9D1D9&sideNums=64B5F6&sideLabels=90CAF9" width="49%" alt="GitHub Streak"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=64B5F6&text_color=C9D1D9&langs_count=8" width="42%" alt="Top Languages"/>
-
-</div>
-
-
 <div align="center"><img src="headers/contribution-graph.svg" width="500"/></div>
 
 <div align="center">
