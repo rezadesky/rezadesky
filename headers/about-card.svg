@@ -1,0 +1,110 @@
+<svg width="700" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F1E">
+        <animate attributeName="stop-color" values="#0A0F1E;#0D1B2A;#0A0F1E" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1A1A2E">
+        <animate attributeName="stop-color" values="#1A1A2E;#0D2A4A;#1A1A2E" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Shimmer border gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D47A1"/>
+      <stop offset="40%" stop-color="#64B5F6">
+        <animate attributeName="offset" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0D47A1"/>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Subtle glow for labels -->
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Dot pulse animation -->
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4CAF50" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#4CAF50" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="320" rx="16" ry="16" fill="url(#bgGrad)"/>
+
+  <!-- Animated border -->
+  <rect x="1.5" y="1.5" width="697" height="317" rx="15" ry="15" fill="none" stroke="url(#borderGrad)" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner accents -->
+  <line x1="0" y1="40" x2="0" y2="16" stroke="#64B5F6" stroke-width="3" stroke-linecap="round" transform="translate(12,0)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="0" x2="24" y2="0" stroke="#64B5F6" stroke-width="3" stroke-linecap="round" transform="translate(12,12)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="664" y1="40" x2="664" y2="16" stroke="#64B5F6" stroke-width="3" stroke-linecap="round" transform="translate(12,0)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="664" y1="0" x2="640" y2="0" stroke="#64B5F6" stroke-width="3" stroke-linecap="round" transform="translate(12,12)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Name (large, glowing) -->
+  <text x="50" y="65" font-family="Onest, Segoe UI, sans-serif" font-size="28" font-weight="700" fill="#64B5F6" filter="url(#glow)" letter-spacing="1">
+    Reza Saputra Desky
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Separator line -->
+  <line x1="50" y1="80" x2="650" y2="80" stroke="#1E3A5F" stroke-width="1">
+    <animate attributeName="x2" values="50;650;50" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Online indicator dot -->
+  <circle cx="50" cy="105" r="5" fill="#4CAF50">
+    <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="62" y="110" font-family="Onest, Segoe UI, sans-serif" font-size="13" fill="#4CAF50" font-weight="600">Available for work</text>
+
+  <!-- Info rows -->
+  <!-- Location -->
+  <text x="50" y="145" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#64B5F6" font-weight="600" filter="url(#softglow)">LOKASI</text>
+  <text x="50" y="163" font-family="Onest, Segoe UI, sans-serif" font-size="15" fill="#C9D1D9">Aceh, Indonesia  —  UTC+7</text>
+
+  <!-- Role -->
+  <text x="50" y="198" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#64B5F6" font-weight="600" filter="url(#softglow)">ROLE</text>
+  <text x="50" y="216" font-family="Onest, Segoe UI, sans-serif" font-size="15" fill="#C9D1D9">Full-Stack Web Developer</text>
+
+  <!-- Stack -->
+  <text x="50" y="251" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#64B5F6" font-weight="600" filter="url(#softglow)">STACK</text>
+  <text x="50" y="269" font-family="Onest, Segoe UI, sans-serif" font-size="14" fill="#C9D1D9">Laravel  ·  Vue.js  ·  React  ·  Node.js  ·  MySQL</text>
+
+  <!-- Currently learning -->
+  <text x="380" y="145" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#64B5F6" font-weight="600" filter="url(#softglow)">SEDANG BELAJAR</text>
+  <text x="380" y="163" font-family="Onest, Segoe UI, sans-serif" font-size="15" fill="#C9D1D9">DevOps &amp; Cloud Architecture</text>
+
+  <!-- Interests -->
+  <text x="380" y="198" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#64B5F6" font-weight="600" filter="url(#softglow)">MINAT</text>
+  <text x="380" y="216" font-family="Onest, Segoe UI, sans-serif" font-size="15" fill="#C9D1D9">Open Source  ·  UI/UX  ·  Web Perf</text>
+
+  <!-- Divider between columns -->
+  <line x1="355" y1="125" x2="355" y2="285" stroke="#1E3A5F" stroke-width="1"/>
+
+  <!-- Quote / fun fact -->
+  <line x1="50" y1="287" x2="650" y2="287" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="350" y="307" font-family="Onest, Segoe UI, sans-serif" font-size="12" fill="#546E7A" text-anchor="middle" font-style="italic">
+    "Kode yang baik bukan hanya yang bekerja — tapi yang mudah dibaca dan dirawat."
+  </text>
+</svg>
