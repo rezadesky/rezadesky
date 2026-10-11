@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://rezasaputradesky.work"><img src="https://img.shields.io/badge/Website-rezasaputradesky.work-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://rezasaputradesky.work"><img src="https://img.shields.io/badge/Portfolio-rezasaputradesky.work-0284c7?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
   <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-rezasaputradesky@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
