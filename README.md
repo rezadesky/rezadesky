@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0284c7,50:38bdf8,100:6366f1&height=200&section=header&text=Reza%20Saputra%20Desky&fontSize=38&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Banda%20Aceh,%20Indonesia&descSize=16&descAlign=50&descAlignY=60&fontColor=ffffff&stroke=00000000" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0284c7,50:38bdf8,100:6366f1&height=180&section=header&text=Reza%20Saputra%20Desky&fontSize=36&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Banda%20Aceh,%20Indonesia&descSize=15&descAlign=50&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -38,22 +38,9 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/rezadesky">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=default&border_radius=8&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&icon_color=0284c7&text_color=475569" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=default&border_radius=8&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&text_color=475569" width="48%" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezadesky&theme=white&border_radius=8&border=E2E8F0&stroke=E2E8F0&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" width="97%" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezadesky&bg_color=ffffff&color=0284c7&line=0284c7&point=2563eb&area=true&border_color=e2e8f0&border_radius=8" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&icon_color=0284c7&text_color=475569" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569" height="150" alt="Top Languages" />
 </div>
 
 ---
