@@ -5,11 +5,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://rezasaputradesky.work"><img src="https://img.shields.io/badge/Portfolio-rezasaputradesky.work-0284c7?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://rezasaputradesky.work"><img src="https://img.shields.io/badge/Website-0284c7?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-rezasaputradesky@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/rezadesky"><img src="https://img.shields.io/badge/LinkedIn-rezadesky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/rezadesky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
