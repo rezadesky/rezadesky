@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Header"/>
+<img src="header.svg?v=1791748637" width="100%" alt="Reza Saputra Desky Header"/>
+
+<br/><br/>
 
 <p align="center">
-  <a href="https://rsdtech.web.id"><img src="https://img.shields.io/badge/Website-rsdtech.web.id-0284c7?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://rsdtech.web.id"><img src="https://img.shields.io/badge/Website-rsdtech.web.id-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
   &nbsp;
-  <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-rezasaputradesky@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-rezasaputradesky@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/rezadesky"><img src="https://img.shields.io/badge/LinkedIn-rezadesky-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/rezadesky"><img src="https://img.shields.io/badge/LinkedIn-rezadesky-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div>
