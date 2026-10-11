@@ -38,7 +38,7 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&icon_color=0284c7&text_color=475569" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&icon_color=0284c7&text_color=475569&hide_rank=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569" height="150" alt="Top Languages" />
 </div>
