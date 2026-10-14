@@ -42,3 +42,4 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569" height="150" alt="Top Languages" />
 </div>
+<!-- profile-sync: 2026-10-14T23:01:02.0061397+07:00 -->
