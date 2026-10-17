@@ -10,6 +10,8 @@
   <a href="mailto:rezasaputradesky@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/rezadesky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://sociabuzz.com/rezadesky/tribe"><img src="https://img.shields.io/badge/Support_Me-SociaBuzz-22C55E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support on SociaBuzz"/></a>
 </p>
 
 </div>
@@ -24,6 +26,7 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
 - 🛠️ **Primary Stack**: PHP (Laravel), TypeScript/JavaScript (Vue, React, Node.js), MySQL, PostgreSQL.
 - 🚀 **Initiative**: Founder of **[ideologTech](https://github.com/rezadesky)**.
 - 📬 **Get in touch**: Open for freelance projects, technical consults, and collaborative roles.
+- ☕ **Support**: Like my open-source work? You can support me on **[SociaBuzz Tribe](https://sociabuzz.com/rezadesky/tribe)**.
 
 ---
 
