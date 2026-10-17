@@ -35,7 +35,7 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
 | **[RSDVault](https://github.com/rezadesky/RSDVault)** | React Native, Expo, TS | Modern, offline-first personal finance and expense tracking mobile application. | ⭐ 58 |
-| **[yabatpresensi](https://github.com/rezadesky/yabatpresensi)** | Laravel, React Native | Geofencing attendance management portal with anti-fake GPS security. | ⭐ 58 |
+| **[YABAT-Presensi](https://github.com/rezadesky/YABAT-Presensi)** | Laravel, React Native | Geofencing attendance management portal with anti-fake GPS security. | ⭐ 58 |
 | **[IDEOSTORE](https://github.com/rezadesky/IDEOSTORE)** | Laravel, Inertia, Vue | Full-stack e-commerce marketplace platform with digital payments. | ⭐ 57 |
 | **[Portfolio](https://github.com/rezadesky/Portfolio)** | React 18, Vite, Tailwind | Official interactive portfolio showcase and personal developer website. | [Live Demo](https://rezasaputradesky.work) |
 | **[PDF-Tool](https://github.com/rezadesky/PDF-Tool)** | Next.js, TypeScript | Privacy-first client-side PDF utility to merge and split documents. | [Repo](https://github.com/rezadesky/PDF-Tool) |
