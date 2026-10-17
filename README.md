@@ -18,12 +18,24 @@
 
 ### Hi, I'm Reza 👋
 
-I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, resilient web applications and robust APIs with an emphasis on code clarity, performance, and clean architecture.
+I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, resilient web applications, mobile platforms, and robust APIs with an emphasis on performance, code clarity, and clean architecture.
 
-- 💼 **Focus**: End-to-end web apps, REST APIs, & database optimization.
+- 💼 **Focus**: End-to-end web apps, cross-platform mobile systems, REST APIs, & database optimization.
 - 🛠️ **Primary Stack**: PHP (Laravel), TypeScript/JavaScript (Vue, React, Node.js), MySQL, PostgreSQL.
 - 🚀 **Initiative**: Founder of **[ideologTech](https://github.com/rezadesky)**.
 - 📬 **Get in touch**: Open for freelance projects, technical consults, and collaborative roles.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Links |
+| :--- | :--- | :--- | :---: |
+| **[RSDVault](https://github.com/rezadesky/RSDVault)** | React Native, Expo, TS | Modern, offline-first personal finance and expense tracking mobile application. | ⭐ 58 |
+| **[yabatpresensi](https://github.com/rezadesky/yabatpresensi)** | Laravel, React Native | Geofencing attendance management portal with anti-fake GPS security. | ⭐ 58 |
+| **[IDEOSTORE](https://github.com/rezadesky/IDEOSTORE)** | Laravel, Inertia, Vue | Full-stack e-commerce marketplace platform with digital payments. | ⭐ 57 |
+| **[Portfolio](https://github.com/rezadesky/Portfolio)** | React 18, Vite, Tailwind | Official interactive portfolio showcase and personal developer website. | [Live Demo](https://rezasaputradesky.work) |
+| **[PDF-Tool](https://github.com/rezadesky/PDF-Tool)** | Next.js, TypeScript | Privacy-first client-side PDF utility to merge and split documents. | [Repo](https://github.com/rezadesky/PDF-Tool) |
 
 ---
 
@@ -42,4 +54,3 @@ I'm a **Full-Stack Developer** based in Banda Aceh, Indonesia. I build modern, r
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=475569" height="150" alt="Top Languages" />
 </div>
-<!-- profile-sync: 2026-10-14T23:01:02.0061397+07:00 -->
