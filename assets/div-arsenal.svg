@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" role="img" aria-label="Arsenal">
+<line x1="40" y1="35" x2="430" y2="35" stroke="#6e1423" stroke-width="1.5"/>
+<line x1="770" y1="35" x2="1160" y2="35" stroke="#6e1423" stroke-width="1.5"/>
+<line x1="70" y1="41" x2="420" y2="41" stroke="#6e1423" stroke-width=".7"/>
+<line x1="780" y1="41" x2="1130" y2="41" stroke="#6e1423" stroke-width=".7"/>
+<circle cx="445.5" cy="35.0" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="440.0" cy="40.5" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="434.5" cy="35.0" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="440.0" cy="29.5" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="440" cy="35" r="2" fill="#9b2335"/>
+<circle cx="765.5" cy="35.0" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="760.0" cy="40.5" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="754.5" cy="35.0" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="760.0" cy="29.5" r="5.5" fill="none" stroke="#9b2335" stroke-width="1.4"/>
+<circle cx="760" cy="35" r="2" fill="#9b2335"/>
+<text x="600" y="41" text-anchor="middle" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="18" letter-spacing="6" fill="#9b2335">ARSENAL</text>
+</svg>
