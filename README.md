@@ -37,6 +37,6 @@ Full-stack web developer dari **Banda Aceh**. Saya membangun aplikasi web end-to
 <img src="./assets/div-chronicle.svg" width="100%" alt="Chronicle" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezadesky&show_icons=true&hide_rank=true&hide_border=true&bg_color=120406&title_color=9b2335&icon_color=9b2335&text_color=e9dfcf" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezadesky&layout=compact&hide_border=true&bg_color=120406&title_color=9b2335&text_color=e9dfcf" height="160" alt="Top Languages" />
+  <img src="./assets/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./assets/langs.svg" height="180" alt="Top Languages" />
 </p>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="TONGUES">
+<rect width="420" height="200" fill="#120406"/>
+<rect x="6" y="6" width="408" height="188" fill="none" stroke="#6e1423" stroke-width="1.5"/>
+<rect x="11" y="11" width="398" height="178" fill="none" stroke="#e9dfcf" stroke-width=".6" opacity=".4"/>
+<text x="210.0" y="40" text-anchor="middle" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="15" letter-spacing="5" fill="#9b2335">TONGUES</text>
+<line x1="40" y1="52" x2="380" y2="52" stroke="#6e1423" stroke-width="1"/>
+<rect x="48.0" y="66" width="112.8" height="8" fill="#9b2335"/>
+<rect x="160.8" y="66" width="105.6" height="8" fill="#6e1423"/>
+<rect x="266.4" y="66" width="46.3" height="8" fill="#b5475a"/>
+<rect x="312.8" y="66" width="38.1" height="8" fill="#4a0d17"/>
+<rect x="350.8" y="66" width="15.5" height="8" fill="#c9a9a0"/>
+<rect x="366.4" y="66" width="5.6" height="8" fill="#8a7f74"/>
+<rect x="48" y="95" width="8" height="8" fill="#9b2335" transform="rotate(45 52 99)"/>
+<text x="64" y="104" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">TypeScript</text>
+<text x="202" y="104" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">34.8%</text>
+<rect x="218" y="95" width="8" height="8" fill="#6e1423" transform="rotate(45 222 99)"/>
+<text x="234" y="104" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">PHP</text>
+<text x="372" y="104" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">32.6%</text>
+<rect x="48" y="123" width="8" height="8" fill="#b5475a" transform="rotate(45 52 127)"/>
+<text x="64" y="132" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">Blade</text>
+<text x="202" y="132" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">14.3%</text>
+<rect x="218" y="123" width="8" height="8" fill="#4a0d17" transform="rotate(45 222 127)"/>
+<text x="234" y="132" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">Vue</text>
+<text x="372" y="132" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">11.7%</text>
+<rect x="48" y="151" width="8" height="8" fill="#c9a9a0" transform="rotate(45 52 155)"/>
+<text x="64" y="160" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">JavaScript</text>
+<text x="202" y="160" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">4.8%</text>
+<rect x="218" y="151" width="8" height="8" fill="#8a7f74" transform="rotate(45 222 155)"/>
+<text x="234" y="160" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="14" fill="#e9dfcf">CSS</text>
+<text x="372" y="160" text-anchor="end" font-family="'Cormorant Garamond','Garamond','Georgia','Times New Roman',serif" font-size="13" fill="#8a7f74">1.7%</text>
+</svg>
